@@ -1,1 +1,0 @@
-Olá GitHub! Este arquivo foi criado pelo Google Colab.
